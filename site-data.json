@@ -2,155 +2,155 @@
   "business": {
     "name": "Richardson Landscape Inc",
     "shortName": "Richardson Landscape",
-    "tagline": "Dallas's trusted source for premium landscaping since 1992",
+    "tagline": "Expert landscaping and lawn care serving Dallas since 1995",
     "niche": "Landscaper / Lawn Care",
     "phone": "(972) 380-9087",
     "address": "17721 Frank Jackson Dr, Dallas, TX 75252",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00am-5:00pm, Sat 8:00am-12:00pm",
-    "ctaLabel": "Get a Free Estimate",
+    "hours": "Mon-Fri 7am-5pm, Sat 8am-12pm",
+    "ctaLabel": "Get a Free Quote",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "Richardson Landscape Inc | Dallas Landscaping & Lawn Care | (972) 380-9087",
-    "description": "Richardson Landscape Inc offers professional landscaping, lawn care, hardscaping, and design services in Dallas, TX. Family-owned since 1992. Call (972) 380-9087 for a free estimate."
+    "title": "Richardson Landscape Inc | Premier Landscaping & Lawn Care in Dallas, TX",
+    "description": "Richardson Landscape Inc offers expert landscaping, lawn care, and outdoor design in Dallas, TX. Transform your yard with our professional team. Call (972) 380-9087 for a free quote."
   },
   "home": {
     "hero": {
-      "eyebrow": "Family-Owned Since 1992",
-      "headline": "Dallas's Premier Landscaping & Lawn Care Experts",
-      "subheadline": "Transform your outdoor space with custom design, expert installation, and meticulous maintenance—backed by decades of local experience.",
-      "primaryCta": "Get a Free Estimate",
-      "secondaryCta": "View Our Services"
+      "eyebrow": "Dallas's Trusted Landscaping Experts Since 1995",
+      "headline": "Transform Your Outdoor Space into a Masterpiece",
+      "subheadline": "From custom landscapes to routine lawn care, we bring your vision to life with precision and passion.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Explore Our Services"
     },
     "stats": [
       {
-        "value": "30+",
-        "label": "Years in Business"
+        "value": "28+",
+        "label": "Years Experience"
       },
       {
-        "value": "1,500+",
-        "label": "Properties Transformed"
-      },
-      {
-        "value": "4.9",
-        "label": "Average Client Rating"
+        "value": "1,000+",
+        "label": "Yards Transformed"
       },
       {
         "value": "100%",
         "label": "Satisfaction Guarantee"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Custom Design & Build",
-        "title": "Landscapes That Reflect Your Style",
-        "body": "From lush gardens to modern hardscapes, our design-build process ensures every detail aligns with your vision. We handle everything from initial concept to final planting.",
+        "eyebrow": "Custom Landscape Design",
+        "title": "Design That Reflects Your Style",
+        "body": "Our team collaborates with you to create a landscape that enhances your home's beauty and functionality. We use premium materials and native plants to ensure lasting results.",
         "bullets": [
-          "Personalized consultations and 3D renderings",
-          "Native plant selection for Dallas climate",
-          "Integrated irrigation and drainage solutions"
+          "Personalized design consultations",
+          "Native plant selection for low maintenance",
+          "Hardscaping including patios, walkways, and retaining walls"
         ],
         "reverse": false,
-        "cardLabel": "Design Process",
-        "cardTitle": "From Sketch to Sanctuary",
-        "cardBody": "Our team collaborates with you to create a cohesive plan that maximizes curb appeal and functionality."
+        "cardLabel": "Feature",
+        "cardTitle": "Award-Winning Designs",
+        "cardBody": "Our landscapes have been recognized for excellence in design and sustainability."
       },
       {
-        "eyebrow": "Premium Lawn Care",
-        "title": "A Greener, Healthier Lawn—All Year Long",
-        "body": "Our comprehensive lawn care programs include fertilization, weed control, aeration, and overseeding tailored to Dallas's unique soil and weather conditions.",
+        "eyebrow": "Lawn Care & Maintenance",
+        "title": "Keep Your Lawn Lush and Healthy",
+        "body": "Regular maintenance is key to a vibrant lawn. We offer tailored plans including mowing, fertilization, weed control, and aeration to keep your yard looking its best year-round.",
         "bullets": [
-          "Seasonal treatments for optimal growth",
-          "Eco-friendly options available",
-          "Consistent scheduling so you never worry"
+          "Weekly or bi-weekly mowing schedules",
+          "Organic fertilization options",
+          "Seasonal cleanups and mulching"
         ],
         "reverse": true,
-        "cardLabel": "Lawn Program",
-        "cardTitle": "Vibrant Turf, Zero Hassle",
-        "cardBody": "We take the guesswork out of lawn care with proven treatments and timely applications."
+        "cardLabel": "Feature",
+        "cardTitle": "Eco-Friendly Practices",
+        "cardBody": "We prioritize sustainable methods to protect your family and the environment."
       }
     ],
-    "whyTitle": "Why Dallas Homeowners Choose Us",
+    "whyTitle": "Why Choose Richardson Landscape Inc",
     "whyChooseUs": [
       {
         "title": "Local Expertise",
-        "description": "We understand Dallas's climate, soil, and regulations, ensuring your landscape thrives year-round."
+        "description": "We understand Dallas's unique climate and soil, ensuring your landscape thrives."
       },
       {
         "title": "Reliable Service",
-        "description": "Our team shows up on time, communicates clearly, and respects your property."
+        "description": "We show up on time and communicate clearly every step of the way."
       },
       {
         "title": "Quality Craftsmanship",
-        "description": "We use premium materials and proven techniques to deliver lasting results."
+        "description": "Our team uses top-tier materials and techniques for durable, beautiful results."
       },
       {
-        "title": "Full-Service Convenience",
-        "description": "From design to maintenance, we handle every aspect of your outdoor space."
+        "title": "Customer First",
+        "description": "Your satisfaction is our priority. We tailor every project to your needs."
       }
     ],
     "testimonials": [
       {
-        "quote": "Richardson Landscape transformed our backyard into a beautiful oasis. The team was professional, punctual, and the quality exceeded our expectations.",
+        "quote": "Richardson Landscape transformed our backyard into an oasis. Their team was professional, creative, and completed the project on time.",
         "author": "Sarah M.",
         "role": "Lakewood Homeowner"
       },
       {
-        "quote": "We've used their lawn care program for two years. Our grass has never looked greener, and the technicians are always friendly and knowledgeable.",
+        "quote": "We've used their lawn care service for two years. Our grass has never looked better, and they're always responsive.",
         "author": "James T.",
         "role": "Preston Hollow Resident"
       },
       {
-        "quote": "They designed and installed a stunning patio with a fire pit. The process was smooth, and the result is our favorite spot to relax.",
-        "author": "Linda R.",
+        "quote": "From design to installation, everything was seamless. Highly recommend for any landscaping project.",
+        "author": "Emily R.",
         "role": "Highland Park Homeowner"
       }
     ],
     "cta": {
-      "headline": "Ready to Elevate Your Outdoor Living?",
-      "subheadline": "Contact us today for a free consultation and estimate.",
-      "primaryCta": "Get a Free Estimate",
+      "headline": "Ready to Transform Your Yard?",
+      "subheadline": "Contact us today for a free consultation and quote.",
+      "primaryCta": "Get a Free Quote",
       "secondaryCta": "Call (972) 380-9087"
     }
   },
   "servicesPage": {
-    "intro": "At Richardson Landscape Inc, we offer a full range of landscaping and lawn care services designed to enhance your property's beauty and value. From one-time transformations to ongoing maintenance, our experienced team delivers exceptional results."
+    "intro": "We offer a full range of landscaping and lawn care services to enhance your outdoor living space. From design to maintenance, our experienced team delivers exceptional results tailored to your needs."
   },
   "services": [
     {
       "icon": "01",
       "title": "Custom Landscape Design & Installation",
-      "shortDescription": "Turn your vision into reality with personalized design and expert installation.",
-      "longDescription": "Our design-build process begins with a thorough consultation to understand your style, needs, and budget. We create detailed plans and 3D renderings, then bring them to life with skilled installation of plants, trees, flowers, and hardscape elements. We source the best materials and plants suited to Dallas's climate for long-lasting beauty.",
+      "shortDescription": "Transform your property with a custom-designed landscape that blends beauty and function.",
+      "longDescription": "Our design-build process begins with understanding your vision and site conditions. We create detailed plans incorporating plants, hardscapes, and water features, then bring them to life with expert installation.",
       "benefits": [
-        "Tailored designs that reflect your personality",
-        "Increased property value and curb appeal",
-        "Seamless integration of softscape and hardscape",
-        "Professional project management from start to finish"
+        "Enhances curb appeal and property value",
+        "Creates functional outdoor living areas",
+        "Uses drought-tolerant plants for water savings",
+        "Personalized to match your style"
       ],
       "process": [
         {
           "title": "Consultation",
-          "description": "We meet on-site to discuss your ideas, measure the space, and assess conditions."
+          "description": "We meet on-site to discuss your goals, budget, and preferences."
         },
         {
-          "title": "Design & Proposal",
-          "description": "Our designer creates a custom plan with plant selections, layout, and cost estimate."
+          "title": "Design",
+          "description": "Our designers create a custom plan with 3D renderings for your approval."
         },
         {
           "title": "Installation",
-          "description": "Our crew installs everything with precision, ensuring minimal disruption to your daily life."
+          "description": "Our crew installs the landscape with precision, ensuring minimal disruption."
         }
       ],
       "faqs": [
         {
           "question": "How long does a typical landscape installation take?",
-          "answer": "Timelines vary based on scope. A full backyard transformation can take 1-3 weeks. We provide a detailed schedule during the proposal phase."
+          "answer": "Timelines vary by project size, but most residential installations are completed within 2-4 weeks."
         },
         {
-          "question": "Do you handle permits?",
-          "answer": "Yes, we manage all necessary permits for hardscape and structural elements as part of our service."
+          "question": "Do you offer maintenance after installation?",
+          "answer": "Yes, we provide ongoing maintenance packages to keep your landscape looking its best."
         }
       ],
       "slug": "custom-landscape-design-installation"
@@ -158,163 +158,161 @@
     {
       "icon": "02",
       "title": "Lawn Care & Maintenance",
-      "shortDescription": "Keep your lawn lush and healthy with our comprehensive care programs.",
-      "longDescription": "Our lawn care programs are designed to address the specific needs of Dallas turf. We offer fertilization, weed control, aeration, overseeding, and seasonal cleanups. Our technicians are licensed and trained to apply treatments safely and effectively. We also provide regular mowing, edging, and trimming for a manicured look.",
+      "shortDescription": "Keep your lawn healthy and vibrant with our comprehensive care programs.",
+      "longDescription": "Our lawn care services include mowing, fertilization, weed control, aeration, and overseeding. We tailor schedules to your grass type and seasonal needs for a lush, green lawn.",
       "benefits": [
-        "Thicker, greener grass with fewer weeds",
-        "Customized treatment schedules for your lawn type",
-        "Eco-friendly options available upon request",
-        "Free lawn analysis to identify issues early"
+        "Consistent, professional mowing",
+        "Targeted weed and pest control",
+        "Improved soil health through aeration",
+        "Customizable plans to fit your schedule"
       ],
       "process": [
         {
-          "title": "Lawn Assessment",
-          "description": "We test soil and inspect turf to create a tailored treatment plan."
+          "title": "Assessment",
+          "description": "We evaluate your lawn's condition and identify any issues."
         },
         {
-          "title": "Treatment Schedule",
-          "description": "We apply fertilizers, pre-emergents, and post-emergents at optimal times."
+          "title": "Plan",
+          "description": "We create a year-round maintenance plan with recommended services."
         },
         {
-          "title": "Ongoing Monitoring",
-          "description": "Our team visits regularly to adjust care and address any problems."
+          "title": "Service",
+          "description": "Our team performs regular visits and adjustments as needed."
         }
       ],
       "faqs": [
         {
-          "question": "Are your lawn products safe for pets and children?",
-          "answer": "Yes, we use pet- and child-safe products whenever possible and provide guidance on re-entry times."
+          "question": "What type of fertilizer do you use?",
+          "answer": "We offer both synthetic and organic options based on your preference."
         },
         {
-          "question": "How often should I water after treatment?",
-          "answer": "We provide specific watering instructions after each application to maximize effectiveness."
+          "question": "How often should my lawn be mowed?",
+          "answer": "Typically weekly during growing season, but we adjust based on growth rate."
         }
       ],
       "slug": "lawn-care-maintenance"
     },
     {
       "icon": "03",
-      "title": "Hardscaping: Patios, Walkways & More",
-      "shortDescription": "Create functional, beautiful outdoor living spaces with durable hardscapes.",
-      "longDescription": "Our hardscaping services include patios, walkways, retaining walls, fire pits, outdoor kitchens, and driveways. We use high-quality pavers, natural stone, and concrete to build structures that complement your landscape and stand the test of time. Our designs blend aesthetics with functionality.",
+      "title": "Hardscaping & Outdoor Structures",
+      "shortDescription": "Add patios, walkways, retaining walls, and more to enhance your outdoor space.",
+      "longDescription": "Our hardscaping team designs and builds durable, attractive structures using natural stone, pavers, and concrete. From fire pits to pergolas, we create functional extensions of your home.",
       "benefits": [
-        "Expand your living space outdoors",
-        "Low-maintenance entertainment areas",
-        "Enhanced drainage and erosion control",
-        "Custom designs that match your home's architecture"
+        "Increases usable outdoor living space",
+        "Adds long-lasting value to your property",
+        "Custom designs to complement your home",
+        "Professional installation with quality materials"
       ],
       "process": [
         {
-          "title": "Site Evaluation",
-          "description": "We assess drainage, soil stability, and access to plan a solid foundation."
+          "title": "Design",
+          "description": "We create a layout that integrates with your landscape and meets your needs."
         },
         {
-          "title": "Material Selection",
-          "description": "We guide you through paver and stone choices to match your style and budget."
+          "title": "Preparation",
+          "description": "Site is excavated and graded for proper drainage and stability."
         },
         {
           "title": "Construction",
-          "description": "Our masons install with precision, ensuring proper base, leveling, and finishing."
+          "description": "Our skilled masons build the structure with attention to detail."
         }
       ],
       "faqs": [
         {
-          "question": "What is the lifespan of a paver patio?",
-          "answer": "With proper installation and maintenance, paver patios can last 20-30 years or more."
+          "question": "What materials do you recommend for patios?",
+          "answer": "We offer pavers, flagstone, and concrete. Pavers are popular for durability and design flexibility."
         },
         {
-          "question": "Do you offer sealing services?",
-          "answer": "Yes, we can seal your hardscape to protect against stains and weather."
+          "question": "Do you handle permits?",
+          "answer": "Yes, we obtain any necessary permits and ensure code compliance."
         }
       ],
-      "slug": "hardscaping-patios-walkways-more"
+      "slug": "hardscaping-outdoor-structures"
     },
     {
       "icon": "04",
-      "title": "Irrigation & Drainage Solutions",
-      "shortDescription": "Efficient watering and drainage systems to protect your landscape.",
-      "longDescription": "Proper irrigation and drainage are critical to a healthy landscape. We design and install sprinkler systems with smart controllers that adjust watering based on weather. We also solve drainage issues with French drains, dry wells, and grading to prevent pooling and erosion.",
+      "title": "Seasonal Cleanups & Tree Services",
+      "shortDescription": "Prepare your yard for every season with our cleanup and tree care services.",
+      "longDescription": "Our seasonal cleanups include leaf removal, pruning, mulching, and debris hauling. We also offer tree trimming, removal, and stump grinding to keep your property safe and tidy.",
       "benefits": [
-        "Water savings up to 30% with smart technology",
-        "Prevents overwatering and underwatering",
-        "Protects your foundation and landscaping from water damage",
-        "Low-maintenance, durable systems"
+        "Promotes healthy plant growth",
+        "Reduces fire and storm hazards",
+        "Enhances curb appeal year-round",
+        "Saves you time and effort"
       ],
       "process": [
         {
-          "title": "System Design",
-          "description": "We map your property and design zones for optimal coverage."
+          "title": "Inspection",
+          "description": "We assess your yard and trees for any issues."
         },
         {
-          "title": "Installation",
-          "description": "Our team trenches, lays pipes, and installs heads and controllers."
+          "title": "Cleanup",
+          "description": "Our team removes debris, prunes plants, and mulches beds."
         },
         {
-          "title": "Programming & Testing",
-          "description": "We set schedules, test coverage, and ensure everything works perfectly."
+          "title": "Disposal",
+          "description": "All waste is hauled away, leaving your property clean."
         }
       ],
       "faqs": [
         {
-          "question": "Can you retrofit an existing system?",
-          "answer": "Yes, we can upgrade old systems with smart controllers and efficient nozzles."
+          "question": "Do you offer spring and fall cleanups?",
+          "answer": "Yes, we provide comprehensive cleanups in both spring and fall."
         },
         {
-          "question": "How do you handle drainage in clay soil?",
-          "answer": "We use French drains and grading techniques specifically designed for Dallas's heavy clay soil."
+          "question": "Can you remove large trees?",
+          "answer": "Absolutely, we have the equipment and expertise to safely remove trees of any size."
         }
       ],
-      "slug": "irrigation-drainage-solutions"
+      "slug": "seasonal-cleanups-tree-services"
     }
   ],
   "about": {
-    "headline": "Over 30 Years of Excellence in Dallas Landscaping",
-    "mission": "Our mission is to enhance the beauty and functionality of outdoor spaces in Dallas through expert design, quality craftsmanship, and exceptional customer service.",
+    "headline": "Dallas's Trusted Landscaping Partner for Over 28 Years",
+    "mission": "Our mission is to enhance the beauty and value of your property through exceptional landscaping and lawn care, delivered with integrity and craftsmanship.",
     "story": [
-      "Richardson Landscape Inc was founded in 1992 by John Richardson with a simple philosophy: treat every yard as if it were your own. Starting with a single truck and a passion for horticulture, John built a reputation for reliability and artistry. Over the decades, the company has grown into a full-service landscaping firm serving hundreds of Dallas homeowners and businesses.",
-      "Today, we remain family-owned and operated, with a team of skilled designers, horticulturists, and masons who share John's commitment to quality. We stay current with industry trends and sustainable practices, ensuring our clients receive the best solutions for their landscapes."
+      "Richardson Landscape Inc was founded in 1995 by John Richardson with a passion for transforming ordinary yards into extraordinary landscapes. Starting with a single truck and a commitment to quality, John built a reputation for reliability and attention to detail. Over the years, we've grown into a full-service landscaping company serving homeowners and businesses across Dallas.",
+      "Today, our team of skilled designers, horticulturists, and craftsmen continues that tradition. We combine creative vision with technical expertise to deliver results that exceed expectations. Whether it's a complete landscape renovation or weekly lawn maintenance, we treat every project with the same dedication that has made us a trusted name in the community."
     ],
     "highlight": {
-      "stat": "30+",
-      "label": "Years Serving Dallas"
+      "stat": "1,000+",
+      "label": "Properties Enhanced"
     },
     "coreValues": [
       {
+        "title": "Quality",
+        "description": "We use premium materials and best practices to ensure lasting results."
+      },
+      {
         "title": "Integrity",
-        "description": "We do what we say, use quality materials, and stand behind our work."
+        "description": "Honest communication and transparent pricing are the foundations of our business."
       },
       {
-        "title": "Craftsmanship",
-        "description": "Every project receives meticulous attention to detail from start to finish."
-      },
-      {
-        "title": "Customer Focus",
-        "description": "We listen to your needs and communicate clearly throughout the process."
+        "title": "Innovation",
+        "description": "We stay current with sustainable landscaping techniques and design trends."
       },
       {
         "title": "Community",
-        "description": "As a local business, we take pride in making Dallas neighborhoods more beautiful."
+        "description": "We're proud to serve and support the Dallas community."
       }
     ]
   },
   "contact": {
-    "headline": "Get Your Free Estimate Today",
-    "subheadline": "Let's discuss your landscaping vision. We'll provide a detailed proposal with no obligation.",
-    "primaryCta": "Request a Free Estimate",
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your project? Contact us for a free consultation.",
+    "primaryCta": "Call (972) 380-9087",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
       "Highland Park",
       "University Park",
-      "Preston Hollow",
       "Lakewood",
-      "Park Cities",
-      "North Dallas",
-      "Richardson"
+      "Preston Hollow",
+      "Park Cities"
     ]
   },
   "social_proof": {
-    "rating": 4.5,
+    "rating": "",
     "reviews": null
   },
   "meta": {
